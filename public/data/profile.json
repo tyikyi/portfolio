@@ -1,0 +1,63 @@
+{
+    "name": "Tyi Kyi",
+    "profilePictureUrl": "images/pictures/tk.jpg",
+    "locales": {
+        "en": {
+            "credits": "Designed by <strong><a href='https://github.com/tyikyi'>Tyi Kyi</a></strong>",
+            "role": "Web Developer"
+        }
+    },
+    "contactOptions": [
+        {
+            "id": "address",
+            "faIcon": "fa-regular fa-map",
+            "href": null,
+            "locales": {
+                "en": {
+                    "value": "Mae Sai / Tachileik",
+                    "valueShort": "Mae Sai / Tachileik"
+                }
+            }
+        },
+        {
+            "id": "email",
+            "value": "ddale910@gmail.com",
+            "valueShort": "ddale910@gmail.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:ddale910@gmail.com",
+            "copy": true
+        },
+        {
+            "id": "github",
+            "value": "@tyikyi",
+            "valueShort": "@tyikyi",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/tyikyi",
+            "copy": false
+        },
+        {
+            "id": "linkedin",
+            "value": "@tyikyi",
+            "valueShort": "@tyikyi",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/tyi-kyi-240a71234",
+            "copy": false
+        },
+        {
+            "id": "phone",
+            "value": "+959 969954249",
+            "valueShort": "09969954249",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "tel:09969954249",
+            "copy": true
+        },
+        {
+            "id": "download_resume",
+            "value": "",
+            "valueShort": "",
+            "faIcon": "fa-solid fa-file-pdf",
+            "href": "#",
+            "copy": false
+        }
+    ]
+}

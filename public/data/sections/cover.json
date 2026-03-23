@@ -1,0 +1,34 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleProfile",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_list_ids": ["address", "email", "phone"],
+                "contact_circles_ids": ["email", "linkedin", "github", "download_resume"]
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "locales": {
+                        "en": {
+                            "description": "Motivated web developer with an extensive knowledge of web development, design and coding, as well as 4+ years experience in a wide range of programming languages, frameworks and tools. Proven success in developing and deploying applications, websites and web services. Highly organized and detail oriented, with a knack for finding creative solutions to challenging problems."
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "locales": {
+                        "en": {
+                            "description": "Ambitious with strong organizational and multitasking skills, as well as an aptitude for technology. Ready to apply knowledge and skills to any challenge. Able to work independently of remote locations or in office environments as needed by the company."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2016, "month": null},
+                    "dateEnd": {"year": 2020, "month": null},
+                    "img": "images/places/logo-udacity.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "University Of Computer Studies",
+                            "description": "Completed a preparatory program covering foundational computer science topics such as programming, algorithms, and data structures. Gained hands-on experience with problem-solving and logical thinking.",
+                            "province": "Meiktila",
+                            "country": "Myanmar",
+                            "institution": "Meiktila",
+                            "tags": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

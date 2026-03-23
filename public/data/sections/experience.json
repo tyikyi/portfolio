@@ -1,0 +1,72 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2024, "month": 7},
+                    "dateEnd": {"year": 2026, "month": null},
+                    "img": "images/places/logo_web_dev.jpg",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Web Developer",
+                            "description": "Contributed to developing <strong>usable</strong> and <strong>user-friendly</strong> website, creating engaging and seamless user experiences. Collaborated closely with the teams to ensure designs aligned with business goals and user needs.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Developing user friendly website",
+                                    "Created api for application",
+                                    "Collaborated with other developers for webiste and mobile application",
+                                    "Conducted <strong>usability testing</strong> to validate and gather feedback."
+                                ]
+                            },
+                            "province": "NEXEN",
+                            "country": "Myanmar",
+                            "institution": "NEXEN",
+                            "tags": ["PHP", "Laravel", "Vue", "Inertia", "Taiwind Css", "Wordpress", "Restful Api"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2021, "month": 7},
+                    "dateEnd": {"year": 2024, "month": 7},
+                    "img": "images/places/vo.jpg",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                         "en": {
+                            "title": "Web Developer",
+                            "description": "Contributed to developing backend dashboard and collaborated with frontend developer for binding data in frontend template.Sometime developing cms website with wordpress and drupal.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Developing user friendly backend admin dashboard",
+                                    "Collaborated with ui, ux developers to collect data for admin dashboard.",
+                                    "Collaborated with frontend developers for frontend template",
+                                    "Conducted <strong>usability testing</strong> to validate and gather feedback.",
+                                    "Develop cms website with wordpress",
+                                    "Checking responsive for frontend and admin dashboard",
+                                    "Testing payments such as Recon and Airwallex"
+                                ]
+                            },
+                            "province": "Visible One",
+                            "country": "Hong Kong",
+                            "institution": "Visible One",
+                            "tags": ["PHP", "Laravel", "Vue", "Inertia", "Taiwind Css", "Bootstrap", "Wordpress", "Drupal", "Restful Api"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,408 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-paint-roller",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Design Principles",
+                            "description": "Masterful at creating captivating designs, blending color theory, typography, layout, and balance for effective messaging.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-mobile-alt",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Responsive Layouts",
+                            "description": "Proficient in crafting adaptable layouts for diverse devices, ensuring optimal user experience.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-check-double",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Usability Testing",
+                            "description": "Enhancing user experiences through comprehensive usability testing.",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Stacks"}
+            },
+            "settings": {
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2017, "month": 4},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-html5",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "HTML 5",
+                            "description": null
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-css3-alt",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "CSS 3",
+                            "description": null
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-js-square",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Javascript",
+                            "description": null
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Vue 3",
+                            "description": null
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-bootstrap",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Bootstrap",
+                            "description": null
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-css3-alt",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Tailwind",
+                            "description": null
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-wordpress",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Wordpress",
+                            "description": null
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-drupal",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Drupal",
+                            "description": null
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-node-js",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Jquery, Ajax",
+                            "description": null
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "MYSQL, SQLite, MongoDB",
+                            "description": null
+                        }
+                    }
+                },
+                {
+                    "id": 9,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-php",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "PHP",
+                            "description": null
+                        }
+                    }
+                },
+                {
+                    "id": 10,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-laravel",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "LARAVEL",
+                            "description": null
+                        }
+                    }
+                },
+                 {
+                    "id": 11,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-node",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "NodeJS",
+                            "description": null
+                        }
+                    }
+                },
+                {
+                    "id": 12,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-git-alt",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Git, GitLab",
+                            "description": null
+                        }
+                    }
+                },
+                 {
+                    "id": 13,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-regular fa-paper-plane",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Restful Api, Postman",
+                            "description": null
+                        }
+                    }
+                },
+                 {
+                    "id": 14,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-amazon-pay",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Stripe, Airwallex, Recon",
+                            "description": null
+                        }
+                    }
+                },
+                 {
+                    "id": 15,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-comment-sms",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Twilo, Tawkto",
+                            "description": null
+                        }
+                    }
+                },
+                {
+                    "id": 16,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-google-plus-g",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Google Analytics, SEO",
+                            "description": null
+                        }
+                    }
+                },
+                {
+                    "id": 17,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-google-drive",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Integrate Google, Line, Telegram account",
+                            "description": null
+                        }
+                    }
+                },
+                 {
+                    "id": 18,
+                    "dateStart": {"year": null, "month": null},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-lock",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Web Security, Improving Website, Version Management, Website Maintenance",
+                            "description": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Languages"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "small_icons": true,
+                "transparent_item_icon_background": true,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": "images/flags/myanmar.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Myanmar",
+                            "description": "Native speaker with excellent communication and writing skills.",
+                            "level": "Native"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": "images/flags/en-uk.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "description": "Intermediate proficiency in English language; can hold conversations and understand written text.",
+                            "level": "Intermediate"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

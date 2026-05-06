@@ -21,10 +21,10 @@
         },
         {
             "id": "email",
-            "value": "ddale910@gmail.com",
-            "valueShort": "ddale910@gmail.com",
+            "value": "tyikyi217@gmail.com",
+            "valueShort": "tyikyi217@gmail.com",
             "faIcon": "fa-regular fa-envelope",
-            "href": "mailto:ddale910@gmail.com",
+            "href": "mailto:tyikyi217@gmail.com",
             "copy": true
         },
         {
@@ -40,7 +40,7 @@
             "value": "@tyikyi",
             "valueShort": "@tyikyi",
             "faIcon": "fa-brands fa-linkedin",
-            "href": "https://www.linkedin.com/in/tyi-kyi-240a71234",
+            "href": "https://www.linkedin.com/in/tyi-kyi-82b37b408",
             "copy": false
         },
         {
@@ -56,7 +56,7 @@
             "value": "",
             "valueShort": "",
             "faIcon": "fa-solid fa-file-pdf",
-            "href": "../pdf/TYIKYI_CV.pdf",
+            "href": "../pdf/TYIKYI.pdf",
             "copy": false
         }
     ]
